@@ -1,8 +1,8 @@
 ---
 title: "Safety-Aware Perception for Autonomous Collision Avoidance in Dynamic Environments"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+category: Safety Avoidance
+permalink: /publication/2023-12-01-Safety-Aware-Perception-for-Autonomous-Collision-Avoidance-in-Dynamic-Environments-1
 excerpt: 'In our project, we tackled the challenge of helping drones avoid collisions by improving how they perceive their environment. Typically, drones have limited ability to detect obstacles due to restrictions in their sensing range. To solve this, we developed a method that smartly adjusts the drone’s sensors to focus on the most risky areas where collisions are likely to happen'
 date: 2023-12-01
 venue: 'IEEE Robotics and Automation Letters'

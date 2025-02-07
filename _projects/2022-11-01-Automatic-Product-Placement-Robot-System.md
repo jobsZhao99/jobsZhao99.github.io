@@ -2,12 +2,13 @@
 title: "Automatic Product Placement Robot System"
 collection: projects
 type: "Project"
-permalink: /projects/Automatic-Product-Placement-Robot-System
+permalink: /projects/2022-11-01-Automatic-Product-Placement-Robot-System
 venue: "Los Angeles, California"
 date: 2022-11-01
 location: "Los Angeles, California"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5BqRX_-W-MU?list=PL-mMKObk0AO5WAtTd5SqoPdd3P7WQd20R" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Motivation and Background
 
 ![image01](/images/image01.jpg)
